@@ -4,10 +4,14 @@
 
 -> Puedo hacerte sitios estáticos o dinámicos, consumiendo información desde cualquier API, puedo maquetar el diseño que tengas previamente realizado por tu UX/UI
 
-Mi Stack Actual:
-
-<img src='https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png'>
-<img src='https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png'>
+## 🛠 Skills Actuales
+  <p>Programming Languages</p>
+ 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ 
+  <p>Frontend Development</p>
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 
 ## Que estoy aprendiendo?
 
