@@ -17,12 +17,12 @@
 
 - Actualmente Estoy aprendiendo: React con Leonidas Esteban
 
-<a href='https://reactjs.org/' target='_blank' rel='noreferrer'>
+<a href='https://reactjs.org/' target="_blank" rel="noreferrer">
 <img src='https://avatars.githubusercontent.com/u/6412038?s=200&v=4' alt="react" width="40" height="40"/>
 </a>
 
 ## Mi contacto:
 
-<a href='mailto:alfonsovillanueva.ibiza@gmail.com' target='_blank' rel='noreferrer'>alfonsovillanueva.ibiza@gmail.com</a>
+<a href='mailto:alfonsovillanueva.ibiza@gmail.com' target="_blank" rel="noreferrer">alfonsovillanueva.ibiza@gmail.com</a>
 
 Buena vibra.
