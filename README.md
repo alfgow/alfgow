@@ -17,7 +17,7 @@
 
 - Actualmente Estoy aprendiendo: React con Leonidas Esteban
 
-<img src='https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png'>
+<img src='https://avatars.githubusercontent.com/u/6412038?s=200&v=4' alt="react" width="40" height="40"/>
 
 
 
