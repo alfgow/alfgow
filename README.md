@@ -15,7 +15,7 @@
 
 ## Que estoy aprendiendo?
 
-- Actualmente Estoy aprendiendo: React con Leonidas Esteban
+- Actualmente Estoy aprendiendo: React
 
 <a href='https://reactjs.org/' target="_blank" rel="noreferrer">
 <img src='https://avatars.githubusercontent.com/u/6412038?s=200&v=4' alt="react" width="40" height="40"/>
